@@ -1,0 +1,195 @@
+{
+    "generated_at": "2025-11-24T22:45:33.316168",
+    "people_count": 24,
+    "correlations": {
+        "TotalSteps__vs__sleep_hours": -0.15174589192391472,
+        "TotalSteps__vs__sleep_efficiency": 0.07549443879104939,
+        "VeryActiveMinutes__vs__sleep_hours": -0.06190763745827719,
+        "VeryActiveMinutes__vs__sleep_efficiency": 0.078612335921496,
+        "SedentaryMinutes__vs__sleep_hours": -0.6947346321575696,
+        "SedentaryMinutes__vs__sleep_efficiency": -0.13413806165155706,
+        "Calories__vs__sleep_hours": -0.13925713398287476,
+        "Calories__vs__sleep_efficiency": 0.007552351326598983
+    },
+    "per_person_summary": {
+        "1503960366": {
+            "chronotype_label": "Morning Type",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 6.26625,
+            "risk_flags": [
+                "Short sleep duration (<7h median)"
+            ]
+        },
+        "1644430081": {
+            "chronotype_label": "Morning Type",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 4.163333333333332,
+            "risk_flags": [
+                "Short sleep duration (<7h median)",
+                "High sedentary time (median >800 minutes)"
+            ]
+        },
+        "1844505072": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "Moderate",
+            "avg_sleep_hours": 8.077777777777778,
+            "risk_flags": [
+                "Low physical activity (median steps <5000)"
+            ]
+        },
+        "1927972279": {
+            "chronotype_label": "Morning Type",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 6.876470588235295,
+            "risk_flags": [
+                "Short sleep duration (<7h median)",
+                "Low physical activity (median steps <5000)",
+                "High sedentary time (median >800 minutes)"
+            ]
+        },
+        "2026352035": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 8.658527131782945,
+            "risk_flags": [
+                "Low physical activity (median steps <5000)"
+            ]
+        },
+        "2320127002": {
+            "chronotype_label": "Morning Type",
+            "sleep_debt_severity": "Low",
+            "avg_sleep_hours": 1.0833333333333333,
+            "risk_flags": [
+                "Short sleep duration (<7h median)",
+                "High sedentary time (median >800 minutes)"
+            ]
+        },
+        "2347167796": {
+            "chronotype_label": "Morning Type",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 6.7444444444444445,
+            "risk_flags": []
+        },
+        "3977333714": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 7.397083333333333,
+            "risk_flags": []
+        },
+        "4020332650": {
+            "chronotype_label": "Morning Type",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 5.778846153846154,
+            "risk_flags": [
+                "Short sleep duration (<7h median)",
+                "High sedentary time (median >800 minutes)"
+            ]
+        },
+        "4319703577": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 7.720085470085469,
+            "risk_flags": []
+        },
+        "4388161847": {
+            "chronotype_label": "Morning Type",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 6.195512820512819,
+            "risk_flags": []
+        },
+        "4445114986": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 7.066250000000001,
+            "risk_flags": [
+                "Low physical activity (median steps <5000)"
+            ]
+        },
+        "4558609924": {
+            "chronotype_label": "Morning Type",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 1.7516666666666665,
+            "risk_flags": [
+                "Short sleep duration (<7h median)",
+                "High sedentary time (median >800 minutes)"
+            ]
+        },
+        "4702921684": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 7.15074074074074,
+            "risk_flags": []
+        },
+        "5553957443": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 8.73953488372093,
+            "risk_flags": []
+        },
+        "5577150313": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 7.274122807017545,
+            "risk_flags": []
+        },
+        "6117666160": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 7.227777777777779,
+            "risk_flags": []
+        },
+        "6775888955": {
+            "chronotype_label": "Morning Type",
+            "sleep_debt_severity": "Moderate",
+            "avg_sleep_hours": 5.483333333333334,
+            "risk_flags": [
+                "Short sleep duration (<7h median)",
+                "High sedentary time (median >800 minutes)"
+            ]
+        },
+        "6962181067": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 7.9255555555555555,
+            "risk_flags": []
+        },
+        "7007744171": {
+            "chronotype_label": "Morning Type",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 1.163888888888889,
+            "risk_flags": [
+                "Short sleep duration (<7h median)",
+                "High sedentary time (median >800 minutes)"
+            ]
+        },
+        "7086361926": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 7.389814814814814,
+            "risk_flags": []
+        },
+        "8053475328": {
+            "chronotype_label": "Morning Type",
+            "sleep_debt_severity": "Moderate",
+            "avg_sleep_hours": 4.977777777777778,
+            "risk_flags": [
+                "Short sleep duration (<7h median)"
+            ]
+        },
+        "8378563200": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "High",
+            "avg_sleep_hours": 8.138372093023257,
+            "risk_flags": []
+        },
+        "8792009665": {
+            "chronotype_label": "Intermediate",
+            "sleep_debt_severity": "Moderate",
+            "avg_sleep_hours": 7.82361111111111,
+            "risk_flags": [
+                "Low physical activity (median steps <5000)",
+                "High sedentary time (median >800 minutes)"
+            ]
+        }
+    }
+}

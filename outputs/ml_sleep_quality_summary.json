@@ -1,0 +1,8 @@
+{
+    "n_people": 24,
+    "rmse": 0.66965955538695,
+    "r2": 0.6621388862406281,
+    "average_predicted_sleep": 6.37848424911499,
+    "min_predicted_sleep": 1.0834369659423828,
+    "max_predicted_sleep": 8.73848819732666
+}
