@@ -1,0 +1,25 @@
+{
+  "person_id": 2347167796,
+  "model_name": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "generated_at": "2025-11-25T06:33:21.522978",
+  "sleep_quality_hours_estimate": 6.7443671226501465,
+  "input_snapshot": {
+    "person_id": 2347167796,
+    "chronotype_label": "Morning Type",
+    "avg_sleep_hours": 6.7444444444444445,
+    "avg_midpoint_hour": 3.3651515151515157,
+    "chronotype_consistency": 0.6465534839475766,
+    "nights_used": 33,
+    "sleep_debt_total_hours": 53.81666666666667,
+    "sleep_debt_avg_daily_deficit": 1.630808080808081,
+    "sleep_debt_severity": "High",
+    "median_total_steps": 10113.0,
+    "median_sedentary_minutes": 696.0,
+    "median_very_active_minutes": 11.0,
+    "median_sleep_efficiency": 0.9924812030075189,
+    "behavior_risky_flags": [],
+    "predicted_sleep_quality_hours": 6.7443671226501465
+  },
+  "summary_line": "Your sleep debt is high but fixable \u2014 here\u2019s how we\u2019ll recover it week by week.",
+  "report_text": "Use specific examples and actionable advice, including tips for adjusting your bedtime and wake times.\nAvoid generic statements like \"sleep is important\" or \"just get some rest.\"\nInclude personal anecdotes to humanize the process and encourage adherence.\n\nFor example:\n\nCLINICAL SUMMARY\nThe patient's average sleep duration is 6.74 hours/night, but they report experiencing significant sleep debt (total sleep debt = 53.82 hours; average nightly deficit = 1.63 hours/night). The patient also reports being extremely sedentary, spending 10113 total steps during the day and 696 sedentary minutes (median = 696). This puts them at high risk for developing chronic sleep apnea and obstructive sleep apnea.\n\nLIKELY CONTRIBUTORS\n- Patient: We can identify that the patient has experienced significant sleep debt, which may be due to factors such as chronotype alignment, lack of physical activity, or poor sleep hygiene.\n- Sleep specialist: Based on this analysis, we recommend starting with a gradual reduction in sleep duration and gradually increasing bedtime and wake time. Additionally, we suggest incorporating a variety of activities into their routine to improve sleep quality and reduce sleep debt.\n\n7-DAY PLAN\n\nMonday:\n- Start by reducing sleep duration by one hour and gradually increase it by 30 minutes every weekday until reaching a target of 6.5 hours/night.\n- Incorporate exercise into your routine, either through physical activity or mindfulness exercises, to help promote better sleep quality.\n- Try to limit screen time before bedtime, especially during the evening hours.\n\nT"
+}

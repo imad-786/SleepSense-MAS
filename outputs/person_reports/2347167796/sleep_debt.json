@@ -1,0 +1,15 @@
+{
+    "Id": 2347167796,
+    "generated_at": "2025-11-24T22:45:33.244107",
+    "sleep_debt": {
+        "total_sleep_debt_hours": 53.81666666666667,
+        "avg_daily_deficit_hours": 1.630808080808081,
+        "severity": "High",
+        "recovery_plan": {
+            "extra_per_night_hours": 0.5,
+            "estimated_nights_to_recover": 108,
+            "note": "Gradual repayment recommended. Aim for +0.5h sleep per night until debt is repaid."
+        },
+        "days_considered": 33
+    }
+}

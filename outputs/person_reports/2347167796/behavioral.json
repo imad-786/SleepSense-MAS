@@ -1,0 +1,13 @@
+{
+    "Id": 2347167796,
+    "generated_at": "2025-11-24T22:45:33.243677",
+    "behavioral": {
+        "median_total_steps": 10113.0,
+        "median_sedentary_minutes": 696.0,
+        "median_very_active_minutes": 11.0,
+        "median_calories": 2095.0,
+        "median_sleep_hours": 7.316666666666666,
+        "median_sleep_efficiency": 0.9924812030075189,
+        "risky_flags": []
+    }
+}

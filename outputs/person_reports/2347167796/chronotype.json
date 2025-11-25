@@ -1,0 +1,11 @@
+{
+    "Id": 2347167796,
+    "generated_at": "2025-11-24T22:45:33.243273",
+    "chronotype": {
+        "label": "Morning Type",
+        "avg_midpoint_hour": 3.3651515151515157,
+        "consistency_score": 0.6465534839475766,
+        "avg_sleep_hours": 6.7444444444444445,
+        "nights_used": 33
+    }
+}
